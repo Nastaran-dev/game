@@ -1,7 +1,9 @@
 ⚛️ X & O Game (Powered by Vanilla JS & Tailwind CSS)
 
 This project is a modern and optimized implementation of the classic Tic-Tac-Toe game, built to showcase the power of pure Front-end development, focusing on peak performance and a polished User Experience (UX).
+
 screenshot from my project🤩
+
 <img width="1900" height="869" alt="Document - Google Chrome 11_14_2025 10_10_48 PM" src="https://github.com/user-attachments/assets/4aee3230-ff44-4a44-a0a7-1e5a09a12932" />
 <img width="1905" height="859" alt="Document - Google Chrome 11_14_2025 10_12_09 PM" src="https://github.com/user-attachments/assets/4f497abf-a9a9-4dce-86ea-dd3fb231c180" />
 
