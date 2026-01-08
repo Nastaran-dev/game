@@ -22,7 +22,7 @@ Scoring System: A precise mechanism for tracking and displaying game results.
 🚀 How to Run
 
 To run the project locally, simply clone the repository and open the index.html file in your preferred web browser.
-دوره فرنت اند :  https://trainingsitedesign.ir/learn-web-design/
+
 
 <ul>
   <li><a href=https://nastaran-dev.github.io/game/src/index.html>Live Demo</a></li>
